@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "maki121214.aternos.me:63515",
+    "port": 63515,
     "version": "",
     "try-creative": false
   },
